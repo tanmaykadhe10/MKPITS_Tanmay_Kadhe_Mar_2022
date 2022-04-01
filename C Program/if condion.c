@@ -9,7 +9,11 @@ void main()
 	if(r==0)
 	{
 	
-	printf("it divisible by 4",r);
+	printf("it number divisible by 4",r);
+}
+    if (r!=0)
+  {
+    printf("it number is not divisible by 4 ",r);
 }
 }	
 

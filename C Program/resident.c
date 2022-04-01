@@ -2,7 +2,7 @@
 #include<conio.h>
 void main ()
 {
-	int res ,x;
+	int y  ,x;
     printf("enter x: ");
 	scanf("%d",&x);
 	res = 4/x;
