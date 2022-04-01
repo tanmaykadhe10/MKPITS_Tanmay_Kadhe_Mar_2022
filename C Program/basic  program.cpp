@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<conio.h>
-void main()
+void main ()
 {
 	int res ,x;
-    printf("enter the value : ");
+    printf("enter x: ");
 	scanf("%d",&x);
 	res = 4/x;
 	printf("answer= %d",res);
-} 
+}

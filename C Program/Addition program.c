@@ -2,9 +2,10 @@
 #include<conio.h>
 void main()
 {
-	int num1,num2,res;
-	printf("enter any two number : \n");
-	scanf("%d %d",&num1,&num2);
-	res=num1+num2;
-	printf("Adiition is = %d",res);
+	int a,b;
+	float pi =3.142 ,elip;
+	printf("enter the  value of a : " /n );
+	scanf("%d%d",&a,b);
+	elip=pi*a*b;
+	printf("ellipse is = %d",elip);
 }
