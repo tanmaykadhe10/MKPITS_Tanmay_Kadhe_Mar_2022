@@ -9,5 +9,5 @@ void main()
 	printf("enter the value of length :");
 	scanf("%d",&l);
 	rhcone= pi*r*l;
-	printf("sphere area is = %f",rhcone);
+	printf("right circular cone area is = %f",rhcone);
 }
