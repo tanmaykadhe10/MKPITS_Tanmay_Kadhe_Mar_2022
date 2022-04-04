@@ -18,12 +18,13 @@ void main()
 	c=n3*n3*n3;
 	
 	sum=a+b+c;
-	if(sum==num);
-	{
+	if(num==sum);
+		{
 		printf("it number is amrstrong=%d ",sum);
-	}
-	else
+}
+	
+    if(num!=sum);
 	{
-		printf("it number is not amrstong=%d",sum);
+		printf("it number is not amrstong ");
 	}
 }
