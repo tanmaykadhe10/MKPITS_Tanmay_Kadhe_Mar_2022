@@ -11,6 +11,7 @@ int main()
     scanf("%d", &y);
     
     sum = x + y;
+    
     printf("Sum of the above two integers = %d\n", sum);
     
 }
