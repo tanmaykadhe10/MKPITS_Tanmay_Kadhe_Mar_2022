@@ -12,7 +12,7 @@ int fun()
 	void main()
 	{
 		int r;
-	    r=fun();
+	   r= fun(r);
 	    printf("%d",r);
 	
 	}
