@@ -1,0 +1,15 @@
+D:\C sharp\print hello\print hello\bin\Debug\net6.0\print hello.exe
+D:\C sharp\print hello\print hello\bin\Debug\net6.0\print hello.deps.json
+D:\C sharp\print hello\print hello\bin\Debug\net6.0\print hello.runtimeconfig.json
+D:\C sharp\print hello\print hello\bin\Debug\net6.0\print hello.dll
+D:\C sharp\print hello\print hello\bin\Debug\net6.0\print hello.pdb
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.csproj.AssemblyReference.cache
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.AssemblyInfoInputs.cache
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.AssemblyInfo.cs
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.csproj.CoreCompileInputs.cache
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.dll
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\refint\print hello.dll
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.pdb
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\print hello.genruntimeconfig.cache
+D:\C sharp\print hello\print hello\obj\Debug\net6.0\ref\print hello.dll
