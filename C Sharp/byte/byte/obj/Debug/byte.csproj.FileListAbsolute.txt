@@ -1,0 +1,8 @@
+D:\C sharp\byte\byte\bin\Debug\@byte.exe.config
+D:\C sharp\byte\byte\bin\Debug\@byte.exe
+D:\C sharp\byte\byte\bin\Debug\@byte.pdb
+D:\C sharp\byte\byte\obj\Debug\byte.csproj.AssemblyReference.cache
+D:\C sharp\byte\byte\obj\Debug\byte.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\byte\byte\obj\Debug\byte.csproj.CoreCompileInputs.cache
+D:\C sharp\byte\byte\obj\Debug\@byte.exe
+D:\C sharp\byte\byte\obj\Debug\@byte.pdb
