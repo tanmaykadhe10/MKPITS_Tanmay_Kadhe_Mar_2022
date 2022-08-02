@@ -1,0 +1,8 @@
+D:\C sharp\square1\square1\bin\Debug\square1.exe.config
+D:\C sharp\square1\square1\bin\Debug\square1.exe
+D:\C sharp\square1\square1\bin\Debug\square1.pdb
+D:\C sharp\square1\square1\obj\Debug\square1.csproj.AssemblyReference.cache
+D:\C sharp\square1\square1\obj\Debug\square1.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\square1\square1\obj\Debug\square1.csproj.CoreCompileInputs.cache
+D:\C sharp\square1\square1\obj\Debug\square1.exe
+D:\C sharp\square1\square1\obj\Debug\square1.pdb
