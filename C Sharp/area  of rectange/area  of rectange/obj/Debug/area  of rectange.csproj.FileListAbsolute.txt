@@ -1,0 +1,8 @@
+D:\C sharp\area  of rectange\area  of rectange\bin\Debug\area  of rectange.exe.config
+D:\C sharp\area  of rectange\area  of rectange\bin\Debug\area  of rectange.exe
+D:\C sharp\area  of rectange\area  of rectange\bin\Debug\area  of rectange.pdb
+D:\C sharp\area  of rectange\area  of rectange\obj\Debug\area  of rectange.csproj.AssemblyReference.cache
+D:\C sharp\area  of rectange\area  of rectange\obj\Debug\area  of rectange.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\area  of rectange\area  of rectange\obj\Debug\area  of rectange.csproj.CoreCompileInputs.cache
+D:\C sharp\area  of rectange\area  of rectange\obj\Debug\area  of rectange.exe
+D:\C sharp\area  of rectange\area  of rectange\obj\Debug\area  of rectange.pdb
