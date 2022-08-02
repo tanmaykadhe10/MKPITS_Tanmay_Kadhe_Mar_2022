@@ -1,0 +1,8 @@
+D:\C sharp\print name\print name\bin\Debug\print name.exe.config
+D:\C sharp\print name\print name\bin\Debug\print name.exe
+D:\C sharp\print name\print name\bin\Debug\print name.pdb
+D:\C sharp\print name\print name\obj\Debug\print name.csproj.AssemblyReference.cache
+D:\C sharp\print name\print name\obj\Debug\print name.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\print name\print name\obj\Debug\print name.csproj.CoreCompileInputs.cache
+D:\C sharp\print name\print name\obj\Debug\print name.exe
+D:\C sharp\print name\print name\obj\Debug\print name.pdb
