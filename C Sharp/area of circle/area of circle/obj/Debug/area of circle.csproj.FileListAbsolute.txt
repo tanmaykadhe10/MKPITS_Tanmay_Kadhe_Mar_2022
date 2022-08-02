@@ -1,0 +1,8 @@
+D:\C sharp\area of circle\area of circle\bin\Debug\area of circle.exe.config
+D:\C sharp\area of circle\area of circle\bin\Debug\area of circle.exe
+D:\C sharp\area of circle\area of circle\bin\Debug\area of circle.pdb
+D:\C sharp\area of circle\area of circle\obj\Debug\area of circle.csproj.AssemblyReference.cache
+D:\C sharp\area of circle\area of circle\obj\Debug\area of circle.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\area of circle\area of circle\obj\Debug\area of circle.csproj.CoreCompileInputs.cache
+D:\C sharp\area of circle\area of circle\obj\Debug\area of circle.exe
+D:\C sharp\area of circle\area of circle\obj\Debug\area of circle.pdb
