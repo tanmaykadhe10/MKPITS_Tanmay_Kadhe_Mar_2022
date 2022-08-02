@@ -1,0 +1,8 @@
+D:\C sharp\addition of 3 number\addition of 3 number\bin\Debug\addition of 3 number.exe.config
+D:\C sharp\addition of 3 number\addition of 3 number\bin\Debug\addition of 3 number.exe
+D:\C sharp\addition of 3 number\addition of 3 number\bin\Debug\addition of 3 number.pdb
+D:\C sharp\addition of 3 number\addition of 3 number\obj\Debug\addition of 3 number.csproj.AssemblyReference.cache
+D:\C sharp\addition of 3 number\addition of 3 number\obj\Debug\addition of 3 number.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\addition of 3 number\addition of 3 number\obj\Debug\addition of 3 number.csproj.CoreCompileInputs.cache
+D:\C sharp\addition of 3 number\addition of 3 number\obj\Debug\addition of 3 number.exe
+D:\C sharp\addition of 3 number\addition of 3 number\obj\Debug\addition of 3 number.pdb
