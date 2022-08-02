@@ -1,0 +1,15 @@
+D:\C sharp\print number\print number\bin\Debug\net6.0\print number.exe
+D:\C sharp\print number\print number\bin\Debug\net6.0\print number.deps.json
+D:\C sharp\print number\print number\bin\Debug\net6.0\print number.runtimeconfig.json
+D:\C sharp\print number\print number\bin\Debug\net6.0\print number.dll
+D:\C sharp\print number\print number\bin\Debug\net6.0\print number.pdb
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.csproj.AssemblyReference.cache
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.AssemblyInfoInputs.cache
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.AssemblyInfo.cs
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.csproj.CoreCompileInputs.cache
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.dll
+D:\C sharp\print number\print number\obj\Debug\net6.0\refint\print number.dll
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.pdb
+D:\C sharp\print number\print number\obj\Debug\net6.0\print number.genruntimeconfig.cache
+D:\C sharp\print number\print number\obj\Debug\net6.0\ref\print number.dll
