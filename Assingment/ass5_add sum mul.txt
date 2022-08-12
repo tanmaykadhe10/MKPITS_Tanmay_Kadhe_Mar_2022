@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_5_Q_5___add__sun_mul_operation
+{
+    class Operation
+    {
+       public int num1;
+       public int num2;
+       public int resadd = 0;
+        public int ressub = 0;
+        public int resmul = 0;
+
+        public void additiondata()
+        {
+            resadd = num1 + num2;
+            Console.WriteLine("addition =" + resadd);
+        }
+    
+
+        public void substractiondata()
+        {
+            ressub = num1 - num2;
+             Console.WriteLine("substraction =" + ressub);
+         }
+
+        public void multipictationdata()
+        {
+            resmul = num1 * num2;
+            Console.WriteLine("nmultipication =" + resmul);
+
+        }
+
+    }
+    internal class Program
+    {
+        static void Main()
+        {
+            Operation op = new Operation();
+
+            Console.WriteLine("Enter num 1");
+            op.num1 = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter num 2");
+            op.num2 = Convert.ToInt16(Console.ReadLine());
+
+
+            op.additiondata();
+            op.substractiondata();
+            op.multipictationdata();
+
+            Console.ReadLine();
+        }
+    }
+}
