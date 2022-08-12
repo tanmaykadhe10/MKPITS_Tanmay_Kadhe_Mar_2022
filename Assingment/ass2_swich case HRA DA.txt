@@ -1,0 +1,51 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_2_q_7_swich_case_use_in_HRA_DA
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int emono, basicsal;
+            float total;
+            Console.WriteLine("Enter the employe no.");
+            emono = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the employe basic salary");
+            basicsal = Convert.ToInt16(Console.ReadLine());
+
+            float hra = 0;
+            float da = 0;
+
+            switch (basicsal)
+                {
+                case 25000:
+                hra = basicsal * 0.32f;
+                da = basicsal * 0.45f;
+                break;
+
+            case 10000:
+                hra = basicsal * 0.32f;
+                da = basicsal * 0.45f;
+                break;
+
+            }
+
+            total = basicsal + hra + da;
+            Console.WriteLine("employe no." + emono);
+            Console.WriteLine("basic salary" + basicsal);
+            Console.WriteLine("HRA" + hra);
+            Console.WriteLine("DA "+ da);
+            Console.WriteLine("employe total salary." + total);
+
+            Console.ReadLine();
+
+
+        
+
+        }
+    }
+}
