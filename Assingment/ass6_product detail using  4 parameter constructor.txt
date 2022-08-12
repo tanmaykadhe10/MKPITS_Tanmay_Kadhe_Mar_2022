@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_6_Q_4_product_detail_4_parametrs_costructor
+{
+    class product
+    {
+        int productid;
+        String name;
+        int price,quantity;
+        //creating a constructor with no parameters
+        public product()
+        {
+            productid = 1;
+            name = "pen";
+            quantity = 5;
+            price = 20;
+        }
+        //constructor with 4 parameters(parameterized constructor)
+        public product(int productid, String name,int quantity, int price)
+        {
+            this.productid = productid;
+            this.name = name;
+            this.quantity = quantity;
+            this.price = price;
+        }
+        public void display()
+        {
+            Console.WriteLine("product id = " +productid);
+            Console.WriteLine("product name = " + name);
+            Console.WriteLine("product quantity= " + quantity);
+            Console.WriteLine(" product price = " + price);
+
+        }
+    }
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            product p = new product();//this will call constructor automatically
+            p.display();
+            Console.WriteLine("-----------------product 1 details ----------");
+            product p1 = new product(111, "pencil", 5, 2000); // this will call parameterized constructor
+            p1.display();
+            Console.WriteLine("-----------------product 1 details ----------");
+            Console.WriteLine("enter productid");
+            int productid = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("enter name");
+            String name = Console.ReadLine();
+            Console.WriteLine("enter quantity");
+            int quantity =Convert.ToInt32( Console.ReadLine());
+            Console.WriteLine("enter price");
+            int price = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("-----------------book2 details ----------");
+            product p2 = new product(productid, name, quantity, price);
+            p2.display();
+
+            Console.ReadLine();
+        }
+    }
+}
