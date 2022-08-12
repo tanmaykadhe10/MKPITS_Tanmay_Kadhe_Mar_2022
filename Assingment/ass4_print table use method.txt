@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_4_Q_2_using_method_print_table
+{
+    internal class Program
+    {
+        static void display(int num)
+        {
+            int res;
+            for(int i=1;i<=10;i++)
+            {
+                res = num * i;
+
+                Console.WriteLine("{0} *{1}={2}",  num,i, res);
+            }
+        }
+        static void Main(string[] args)
+        {
+            int number;
+            Console.WriteLine("Enter the number");
+            number = Convert.ToInt16(Console.ReadLine());
+
+            display(number);
+
+            Console.ReadLine();
+        }
+    }
+}
