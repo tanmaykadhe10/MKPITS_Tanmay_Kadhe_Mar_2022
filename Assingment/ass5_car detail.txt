@@ -1,0 +1,54 @@
+//create a class car having fields make,model and method getcardata and displaycardata
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_5_Q_4_car_detail
+{
+    class Car
+    {
+        public int carmodno;
+        public string carname;
+        public float carrate;
+        
+
+
+        public void getcardata()
+        {
+            Console.WriteLine("enter the  car model number ");
+            carmodno = Convert.ToInt16(Console.ReadLine());
+
+            Console.WriteLine("enter the car name ");
+            carname = Console.ReadLine();
+
+            Console.WriteLine("enter the product rate ");
+            carrate = Convert.ToSingle(Console.ReadLine());
+
+            
+        }
+
+        public void displaycardata()
+        {
+            Console.WriteLine("product id =" + carmodno);
+            Console.WriteLine("product name =" + carname);
+            Console.WriteLine("product rate =" + carrate);
+           
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Car car = new Car();
+
+            car.getcardata();
+            car.displaycardata();
+
+            Console.ReadLine();
+
+        }
+    }
+}
