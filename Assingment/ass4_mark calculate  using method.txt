@@ -1,0 +1,55 @@
+//calculate Result of three subject using method
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_4_Q_1_use_method_marks_calculation
+{
+    internal class Program
+    {
+        static void display(int a, int b, int c)
+        {
+            string grade = "";
+            int total = a + b + c;
+            Console.WriteLine("Tota'" + total);
+
+            float per = (total / 300.0f) * 100.0f;
+            Console.WriteLine("Percentage=" + per);
+
+            if (per > 75)
+            {
+                grade = "Destination";
+            }
+            else if (per >= 60 && per <= 75)
+            {
+                grade = "frist";
+
+            }
+
+            else
+            {
+                grade = "fail";
+            }
+
+            Console.WriteLine("Grade = " + grade);
+        }
+
+        static void Main(string[ ] args)
+        {
+            int s1, s2, s3;
+            Console.WriteLine("'enter 1st subject mark ");
+            s1 = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("'enter 2nd subject mark ");
+            s2 = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("'enter 3rd subject mark ");
+            s3 = Convert.ToInt16(Console.ReadLine());
+
+            display(s1, s2, s3);
+
+            Console.ReadLine();
+        }
+    }
+}
