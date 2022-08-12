@@ -1,0 +1,49 @@
+//create a class customer having fields custno, custname, custaddress, custtelno and methods getcustomerdata and displaycustomerdata
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_5_Q_2_costomer_detail_getdata_showdata
+{
+    class Costomer
+    {
+        public int costno;
+        public string costoname;
+        public string costoadd;
+        public int costcont;
+
+        public void getcostomerdata()
+        {
+            costno = 123;
+            costoname = "raj";
+            costoadd = "nagpur";
+            costcont = 12346;
+        
+
+        }
+
+        public void showcostomerdata()
+        {
+            Console.WriteLine("costomer number =" + costno);
+            Console.WriteLine("costomer name =" + costoname);
+            Console.WriteLine("costomer address =" + costoadd);
+            Console.WriteLine("costomer  contact number =" + costcont);
+
+        }
+    }
+
+    internal class Program
+    {
+        static void Main()
+        {
+            Costomer costomer = new Costomer();
+            costomer.getcostomerdata();
+            costomer.showcostomerdata();
+
+            Console.ReadLine();
+        }
+    }
+}
