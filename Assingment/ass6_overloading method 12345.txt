@@ -1,0 +1,90 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_6_Q_5_overloading_method_1_2_3_4_getadata_use
+{
+    class student
+    {
+        int rno;
+        string name, sylabus;
+        int fees;
+
+        public void getdata()
+        {
+            rno = 111;
+            name = "raj";
+            sylabus = "math,physic,chemistry";
+            fees = 2000;
+
+        }
+        public void getdata(int rno)
+        {
+            this.rno = rno;
+        }
+        public void getdata(int rno, string name)
+        {
+            this.rno = rno;
+            this.name = name;
+
+        }
+        public void getdata(int rno, string name, string sylabus)
+        {
+            this.rno = rno;
+            this.name = name;
+            this.sylabus = sylabus;
+
+        }
+        public void getdata(int rno, string name, string sylabus, int fees)
+        {
+            this.rno = rno;
+            this.name = name;
+            this.sylabus =sylabus;
+            this.fees = fees;
+
+        }
+        public void display()
+        {
+            Console.WriteLine("roll no. = " +rno);
+            Console.WriteLine("name = " + name);
+            Console.WriteLine("sylabus= " + sylabus);
+            Console.WriteLine("price = " + fees);
+
+
+
+        }
+
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            student b = new student();
+            b.getdata();
+            b.display();
+
+
+            student b1 = new student();
+            b1.getdata(123);
+            b1.display();
+
+            student b2 = new student();
+            b2.getdata(111, "raju");
+            b2.display();
+
+
+            student b3 = new student();
+            b3.getdata(111, "raju", "m1,m2,m3");
+            b3.display();
+
+
+            student b4 = new student();
+            b4.getdata(111, "raju", "m1,m2,m3", 142);
+            b4.display();
+
+            Console.ReadLine();
+        }
+    }
+}
