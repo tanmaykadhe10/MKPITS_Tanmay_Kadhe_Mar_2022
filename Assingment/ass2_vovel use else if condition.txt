@@ -1,0 +1,47 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A2_q_11_vovels
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char vowel;
+            Console.WriteLine("Enter the vowel");
+            vowel = Convert.ToChar(Console.ReadLine());
+
+
+            if (vowel == 'a')
+            {
+                Console.WriteLine("it is vowwel");
+            }
+            else if (vowel=='e')
+            {
+                Console.WriteLine("it is vowwel");
+            }
+            else if (vowel == 'i')
+            {
+                Console.WriteLine("it is vowwel");
+            }
+            else if (vowel == 'o')
+            {
+                Console.WriteLine("it is vowwel");
+            }
+            else if (vowel == 'u')
+            {
+                Console.WriteLine("it is vowwel");
+            }
+
+            else
+            {
+                Console.WriteLine("you enter character is not vowel");
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
