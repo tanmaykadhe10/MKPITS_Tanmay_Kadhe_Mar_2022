@@ -1,0 +1,57 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_2_q_11_Vowel_use_swich_case
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            char vowel;
+            Console.WriteLine("Enter the vowel");
+            vowel = Convert.ToChar(Console.ReadLine());
+            switch (vowel)
+            {
+
+                case 'a':
+            
+                Console.WriteLine("it is vowwel");
+                break;
+
+
+                case 'e':
+
+                    Console.WriteLine("it is vowwel");
+                    break;
+
+                case 'i':
+
+                    Console.WriteLine("it is vowwel");
+                    break;
+
+
+                case 'o':
+
+                    Console.WriteLine("it is vowwel");
+                    break;
+
+
+                case 'u':
+
+                    Console.WriteLine("it is vowwel");
+                    break;
+
+                default:
+
+                 Console.WriteLine("you enter character is not vowel");
+                    break;
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
