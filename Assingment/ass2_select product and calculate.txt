@@ -1,0 +1,50 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A2_Q_9_select_product_and_calculate
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int quntity;
+            string prodname ;
+            int total = 0;
+
+            Console.WriteLine("Enter the product name.like pen,pencil,book:");
+            prodname = Convert.ToString(Console.ReadLine());
+
+            Console.WriteLine("Enter the Quntity.:");
+            quntity = Convert.ToInt16(Console.ReadLine());
+
+            
+
+           
+            if (prodname == "pen")
+            {
+                total = quntity * 10;
+            }
+            else if (prodname == "pencil")
+            {
+                total = quntity * 5;
+            }
+            else if (prodname == "book")
+            {
+                total = quntity * 50;
+            }
+            else
+            {
+                Console.WriteLine("you enter product not avilable");
+            }
+
+            Console.WriteLine("product name : " + prodname);
+            Console.WriteLine("Quntity : " +quntity );
+  
+            Console.WriteLine("Total of select product : " + total);
+            Console.ReadLine();
+        }
+    }
+}
