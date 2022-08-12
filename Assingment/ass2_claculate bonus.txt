@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A2_Q_8_calculate_bonus
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int empno;
+            float basicsal ;
+            string enpname , designation;
+            float total = 0;
+
+            Console.WriteLine("Enter the employe no.:");
+            empno = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Enter the basic salary.:");
+            basicsal = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("Enter the employe name:");
+            enpname = Console.ReadLine();
+
+            Console.WriteLine("Enter the designation:");
+            designation =Convert.ToString( Console.ReadLine());
+            if (designation == "manager")
+            {
+                total = basicsal + 10000;
+            }
+            else if (designation == "clerk") 
+            {
+                total = basicsal + 5000;
+            }
+            else if (designation == "peon")
+            {
+                total = basicsal + 2000;
+            }
+
+            Console.WriteLine("name : " + enpname);
+            Console.WriteLine("id no. : " + empno);
+            Console.WriteLine("salary : " + basicsal);
+            Console.WriteLine("Total salary of employe is : " + total);
+            Console.ReadLine();
+        }
+    }
+}
