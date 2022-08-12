@@ -1,0 +1,55 @@
+//create a class product having fields prodid, prodname, prodrate, quantity and methods getproductdata and displayorder
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A_5_Q_3_product_detail
+{
+    class Product
+    {
+        public int proid;
+        public string proname;
+        public float prorate;
+        public int proquen;
+
+
+        public void getproductdata()
+        {
+            Console.WriteLine("enter the product id ");
+            proid = Convert.ToInt16(Console.ReadLine());
+
+            Console.WriteLine("enter the product name ");
+            proname = Console.ReadLine();
+
+            Console.WriteLine("enter the product rate ");
+            prorate = Convert.ToSingle(Console.ReadLine());
+
+            Console.WriteLine("enter the product quntity ");
+            proquen = Convert.ToInt16(Console.ReadLine());
+        }
+
+        public void displayproductdata()
+        {
+            Console.WriteLine("product id =" + proid);
+            Console.WriteLine("product name =" + proname);
+            Console.WriteLine("product rate =" + prorate);
+            Console.WriteLine("product quentity =" + proquen);
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Product pro = new Product();
+
+            pro.getproductdata();
+            pro.displayproductdata();
+
+            Console.ReadLine();
+
+        }
+    }
+}
