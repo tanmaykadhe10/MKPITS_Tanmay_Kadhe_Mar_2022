@@ -1,0 +1,29 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A3_Q_1_do_while_print_factorial
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n, i=1;
+            int fact = 1;
+            Console.WriteLine("enter the number");
+            n = Convert.ToInt16(Console.ReadLine());
+            do
+            {
+                
+                fact = fact * i;
+                i++;
+            }
+            while (i <= n);
+            
+            Console.WriteLine(+fact);
+            Console.ReadLine();
+        }
+    }
+}
