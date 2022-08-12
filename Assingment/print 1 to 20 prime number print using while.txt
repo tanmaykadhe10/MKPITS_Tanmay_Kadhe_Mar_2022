@@ -1,0 +1,41 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A3_q_3_print_1_to_20_prime_number
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+       
+         int i,j;
+        Console.WriteLine("Prime no, bet 1 to 20:");
+            
+            for(i=1;i<=20;i++)
+            {
+            int d=0;
+            for(j=2;j<=i;j++)
+            {
+            if(j%i==0)
+            {
+            d++;
+            break;
+           }
+           }
+            if (decimal==0 && i!=j)
+            {
+             Console.WriteLine(j);
+             }
+
+    }
+            
+
+            Console.ReadLine();
+
+           
+            }
+        }
+
+}
