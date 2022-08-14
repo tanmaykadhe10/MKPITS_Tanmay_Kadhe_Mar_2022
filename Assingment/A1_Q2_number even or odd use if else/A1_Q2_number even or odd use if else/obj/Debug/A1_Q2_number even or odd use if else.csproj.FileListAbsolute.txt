@@ -1,0 +1,8 @@
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\bin\Debug\A1_Q2_number even or odd use if else.exe.config
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\bin\Debug\A1_Q2_number even or odd use if else.exe
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\bin\Debug\A1_Q2_number even or odd use if else.pdb
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\obj\Debug\A1_Q2_number even or odd use if else.csproj.AssemblyReference.cache
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\obj\Debug\A1_Q2_number even or odd use if else.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\obj\Debug\A1_Q2_number even or odd use if else.csproj.CoreCompileInputs.cache
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\obj\Debug\A1_Q2_number even or odd use if else.exe
+D:\C sharp\A1_Q2_number even or odd use if else\A1_Q2_number even or odd use if else\obj\Debug\A1_Q2_number even or odd use if else.pdb
