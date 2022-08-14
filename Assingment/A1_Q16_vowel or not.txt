@@ -1,0 +1,34 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q16_vowel_or_not
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            char alp;
+            Console.WriteLine("Enter the angle side1 :");
+            alp =Convert.ToChar( Console.ReadLine());
+
+            if(alp=='a' || alp == 'e' || alp == 'i' || alp == 'o' || alp == 'u'|| alp == 'A' || alp == 'E' || alp == 'I' || alp == 'O' || alp == 'U')
+            {
+                Console.WriteLine("Enter character is vowel");
+
+            }
+            else if(alp>'a' || alp<'z' || alp>'A' || alp<'Z')
+            {
+                Console.WriteLine(" Enter character is consonant");
+            }
+            else
+            {
+                Console.WriteLine("Invalid chacter");
+
+            }
+            Console.ReadLine();
+        }
+    }
+}
