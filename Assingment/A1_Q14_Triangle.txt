@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q14_tringle_or_not
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int a,b,c;
+            Console.WriteLine("Enter the angle side :");
+             a = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the angle side :");
+            b = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the angle side :");
+            c = Convert.ToInt16(Console.ReadLine());
+
+            if(a==b && b==c)
+            {
+                Console.WriteLine("This is Equalizer Triangle");
+            }
+            else if(a==b || a==c || b==c  )
+            {
+                Console.WriteLine("This is Isosceles Triangle");
+            }
+            else
+            {
+                Console.WriteLine("This is scalane Triangle ");
+            }
+            Console.ReadLine();
+        }
+    }
+}
