@@ -1,0 +1,44 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q8_gretter_number_of_3
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int x,y;
+            Console.WriteLine("Enter cordinate X  :");
+            x= Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter cordinate Y :");
+            y = Convert.ToInt32(Console.ReadLine());
+            
+            if (x>0 && y>0)
+            {
+                Console.WriteLine("Enter number in 1st quedrant :" + x ,+y);
+            }
+            else if (x<0 && y>0)
+            {
+                Console.WriteLine("Enter number in 2nd quedrant :" + x , +y);
+            }
+            else if (x < 0 && y < 0)
+            {
+                Console.WriteLine("Enter number in 3rd quedrant :" + x, +y);
+            }
+            else if (x > 0 && y < 0)
+            {
+                Console.WriteLine("Enter number in 4th quedrant :" + x, +y);
+            }
+            else
+            {
+                Console.WriteLine("you enter number is not proper :" + x , +y);
+            }
+            Console.ReadLine();
+
+
+        }
+    }
+}
