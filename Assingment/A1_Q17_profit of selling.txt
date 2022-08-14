@@ -1,0 +1,26 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q17_profit
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int mp, sp, profit;
+            Console.WriteLine("Enter the selling price");
+            sp = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the main price");
+            mp = Convert.ToInt16(Console.ReadLine());
+
+            profit = sp-mp;
+
+            Console.WriteLine("profit is " + profit);
+
+            Console.ReadLine();
+        }
+    }
+}
