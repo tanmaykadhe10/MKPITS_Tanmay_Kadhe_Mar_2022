@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q6_larger_less_number_0_1__1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int m ,n;
+
+            Console.WriteLine("Enter the number");
+            m = Convert.ToInt32(Console.ReadLine());
+
+            if(m != 0)
+             
+                if(m>0)
+                
+                     n= 0;
+                
+                else
+                
+                     n =-1;
+                
+                else
+                    n = 0;
+                
+
+                Console.WriteLine("enter value of m =" + m);
+                Console.WriteLine("the value of n =" + n);
+            
+            Console.ReadLine();
+
+
+        }
+    }
+}
+
+
