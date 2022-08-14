@@ -1,0 +1,35 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q15_Triangle__valid_or_not
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int a, b, c,sum;
+            Console.WriteLine("Enter the angle side1 :");
+            a = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the angle side2 :");
+            b = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the angle side3 :");
+            c = Convert.ToInt16(Console.ReadLine());
+
+            sum = a + b + c;
+
+            if(sum==180)
+            {
+                Console.WriteLine("the triangle is Valid");
+            }
+            else
+            {
+                Console.WriteLine("the triangle is not valid");
+            }
+            Console.ReadLine();
+        }
+    }
+}
