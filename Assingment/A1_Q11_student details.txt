@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q11_student_details
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int phy, math, chem ,rno;
+            int total;
+            string name, division;
+            float per;
+
+            Console.WriteLine("Enter name : ");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter roll number");
+            rno = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the physics mark : ");
+            phy = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the maths mark : ");
+            math = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the chemistry mark : ");
+            chem = Convert.ToInt16(Console.ReadLine());
+
+            total = phy + math + chem;
+            per= (total/300.0f)*100.0f;
+
+            Console.WriteLine("Total =" + total);
+            Console.WriteLine("percentage =" + per);
+
+            if(per>75)
+            {
+                Console.WriteLine(" Destination !");
+            }
+            else if(per>60 && per<75)
+            {
+                Console.WriteLine("frist class !");
+            }
+            else if(per>40 && per<60)
+            {
+                Console.WriteLine("pass !");
+            }
+            else
+            {
+                Console.WriteLine( " Fail !");
+            }
+
+            Console.ReadLine();
+        }
+    }
+}
