@@ -1,0 +1,49 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q10_calculate_mark_and_addmition
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int phy, math, chem;
+            int total1,total2;
+
+            Console.WriteLine("Enter the physics mark : ");
+            phy = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the maths mark : ");
+            math = Convert.ToInt16(Console.ReadLine());
+            Console.WriteLine("Enter the chemistry mark : ");
+            chem = Convert.ToInt16(Console.ReadLine());
+
+            total1 = phy + math + chem;
+            total2 = math + phy;
+            Console.WriteLine("Total mark of physic , math and chemistry : " +total1);
+            Console.WriteLine("Total mark of math physic : " +total2);
+
+            if (math >= 65)
+                if (phy >= 55)
+                    if (chem >= 50)
+                        if ((math + phy + chem) >= 190 || (math + phy) >= 140)
+                            Console.WriteLine("The  candidate is eligible for admission.\n");
+                        else
+                            Console.WriteLine("The candidate is not eligible.\n");
+                    else
+                        Console.WriteLine("The candidate is not eligible.\n");
+                else
+                    Console.WriteLine("The candidate is not eligible.\n");
+            else
+                Console.WriteLine("The candidate is not eligible.\n");
+
+
+            Console.ReadLine();
+
+
+  
+        }
+    }
+}
