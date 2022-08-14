@@ -1,0 +1,32 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q4_leap_oyear_or_not
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+			int year;
+
+			Console.WriteLine("Enter the number");
+			year = Convert.ToInt32(Console.ReadLine());
+
+
+
+			if (year%4==0)
+			{
+
+				Console.WriteLine("Enter year is Leap Year ! =" + year);
+			}
+			else
+			{
+				Console.WriteLine("Enter year is Not Leap Year ! =" + year);
+			}
+			Console.ReadLine();
+		}
+    }
+}
