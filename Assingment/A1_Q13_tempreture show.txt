@@ -1,0 +1,48 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A1_Q13_tempreture_define
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int temp;
+            Console.WriteLine( "Enter the Tempreture :");
+            temp = Convert.ToInt16(Console.ReadLine());
+
+            if (0 > temp)
+            {
+                Console.WriteLine("frezzing !");
+            }
+            else if (0 < temp && 10>temp)
+            {
+                Console.WriteLine("very cold whether !");
+            }
+            else if (10 < temp &&  20>temp)
+            {
+                Console.WriteLine(" cold whether !");
+            }
+            else if (20< temp &&  30>temp)
+            {
+                Console.WriteLine(" Normal !");
+            }
+            else if (30< temp &&  40>temp)
+            {
+                Console.WriteLine(" Hot !");
+            }
+            else if ( temp >= 40)
+            {
+                Console.WriteLine(" cold whether !");
+            }
+
+
+
+
+            Console.ReadLine();
+        }
+    }
+}
