@@ -1,0 +1,8 @@
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\bin\Debug\A1_Q3_number posetive or negative.exe.config
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\bin\Debug\A1_Q3_number posetive or negative.exe
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\bin\Debug\A1_Q3_number posetive or negative.pdb
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\obj\Debug\A1_Q3_number posetive or negative.csproj.AssemblyReference.cache
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\obj\Debug\A1_Q3_number posetive or negative.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\obj\Debug\A1_Q3_number posetive or negative.csproj.CoreCompileInputs.cache
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\obj\Debug\A1_Q3_number posetive or negative.exe
+D:\C sharp\A1_Q3_number posetive or negative\A1_Q3_number posetive or negative\obj\Debug\A1_Q3_number posetive or negative.pdb
