@@ -1,0 +1,33 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A2_Q13_print_numbr_increse_bye_1_in_pyramid
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int i, j, n, rows, k, m = 1;
+
+
+            Console.Write("input number of rows : ");
+            rows = Convert.ToInt32(Console.ReadLine());
+            n = rows + 4 - 1;
+            for (i = 1; i <= rows; i++)
+            {
+                for (k = n; k >= 1; k--)
+                {
+                    Console.Write(" ");
+                }
+                for (j = 1; j <= i; j++)
+                    Console.Write("{0} ", m++);
+                Console.Write("\n");
+                n--;
+            }
+            Console.ReadLine();
+        }
+    }
+}
