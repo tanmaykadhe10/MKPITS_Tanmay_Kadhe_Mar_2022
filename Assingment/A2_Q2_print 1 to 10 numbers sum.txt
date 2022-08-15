@@ -1,0 +1,25 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A2_Q2_print_1_to_10_number_sum
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+
+            int n,sum=0;
+            for (n = 1; n <= 10; n++)
+            {
+                sum += n;
+
+                
+            }
+            Console.WriteLine(+sum);
+            Console.ReadLine();
+        }
+    }
+}
