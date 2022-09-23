@@ -1,0 +1,8 @@
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\obj\Debug\vote or not use if else condition.csproj.AssemblyReference.cache
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\obj\Debug\vote or not use if else condition.csproj.SuggestedBindingRedirects.cache
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\obj\Debug\vote or not use if else condition.csproj.CoreCompileInputs.cache
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\bin\Debug\vote or not use if else condition.exe.config
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\bin\Debug\vote or not use if else condition.exe
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\bin\Debug\vote or not use if else condition.pdb
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\obj\Debug\vote or not use if else condition.exe
+D:\C sharp\vote or not use if else condition\vote or not use if else condition\obj\Debug\vote or not use if else condition.pdb
