@@ -1,0 +1,8 @@
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\obj\Debug\create  datatable from in c sharp(cosole app)2.csproj.AssemblyReference.cache
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\obj\Debug\create  datatable from in c sharp(cosole app)2.csproj.SuggestedBindingRedirects.cache
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\obj\Debug\create  datatable from in c sharp(cosole app)2.csproj.CoreCompileInputs.cache
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\bin\Debug\create  datatable from in c sharp(cosole app)2.exe.config
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\bin\Debug\create  datatable from in c sharp(cosole app)2.exe
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\bin\Debug\create  datatable from in c sharp(cosole app)2.pdb
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\obj\Debug\create  datatable from in c sharp(cosole app)2.exe
+D:\ADO.NET\create  datatable from in c sharp(cosole app)2\create  datatable from in c sharp(cosole app)2\obj\Debug\create  datatable from in c sharp(cosole app)2.pdb
