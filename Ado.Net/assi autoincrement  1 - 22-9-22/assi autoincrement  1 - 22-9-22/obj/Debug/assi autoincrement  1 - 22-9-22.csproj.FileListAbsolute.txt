@@ -1,0 +1,8 @@
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\obj\Debug\assi autoincrement  1 - 22-9-22.csproj.AssemblyReference.cache
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\obj\Debug\assi autoincrement  1 - 22-9-22.csproj.SuggestedBindingRedirects.cache
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\obj\Debug\assi autoincrement  1 - 22-9-22.csproj.CoreCompileInputs.cache
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\bin\Debug\assi autoincrement  1 - 22-9-22.exe.config
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\bin\Debug\assi autoincrement  1 - 22-9-22.exe
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\bin\Debug\assi autoincrement  1 - 22-9-22.pdb
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\obj\Debug\assi autoincrement  1 - 22-9-22.exe
+D:\ADO.NET\assi autoincrement  1 - 22-9-22\assi autoincrement  1 - 22-9-22\obj\Debug\assi autoincrement  1 - 22-9-22.pdb
