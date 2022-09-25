@@ -1,0 +1,8 @@
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\bin\Debug\datatype console autoincrement  1.exe.config
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\bin\Debug\datatype console autoincrement  1.exe
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\bin\Debug\datatype console autoincrement  1.pdb
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\obj\Debug\datatype console autoincrement  1.csproj.AssemblyReference.cache
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\obj\Debug\datatype console autoincrement  1.csproj.SuggestedBindingRedirects.cache
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\obj\Debug\datatype console autoincrement  1.csproj.CoreCompileInputs.cache
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\obj\Debug\datatype console autoincrement  1.exe
+D:\ADO.NET\datatype console autoincrement  1\datatype console autoincrement  1\obj\Debug\datatype console autoincrement  1.pdb

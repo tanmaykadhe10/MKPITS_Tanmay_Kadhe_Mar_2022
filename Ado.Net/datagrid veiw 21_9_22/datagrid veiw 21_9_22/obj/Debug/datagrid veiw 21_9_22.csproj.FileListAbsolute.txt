@@ -1,0 +1,11 @@
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\bin\Debug\datagrid veiw 21_9_22.exe.config
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\bin\Debug\datagrid veiw 21_9_22.exe
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\bin\Debug\datagrid veiw 21_9_22.pdb
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.csproj.AssemblyReference.cache
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.csproj.SuggestedBindingRedirects.cache
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid_veiw_21_9_22.Form1.resources
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid_veiw_21_9_22.Properties.Resources.resources
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.csproj.GenerateResource.cache
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.csproj.CoreCompileInputs.cache
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.exe
+D:\ADO.NET\datagrid veiw 21_9_22\datagrid veiw 21_9_22\obj\Debug\datagrid veiw 21_9_22.pdb
