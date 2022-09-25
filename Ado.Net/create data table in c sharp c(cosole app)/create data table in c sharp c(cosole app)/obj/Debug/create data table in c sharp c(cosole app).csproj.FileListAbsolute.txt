@@ -1,0 +1,8 @@
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\bin\Debug\create data table in c sharp c(cosole app).exe.config
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\bin\Debug\create data table in c sharp c(cosole app).exe
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\bin\Debug\create data table in c sharp c(cosole app).pdb
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\obj\Debug\create data table in c sharp c(cosole app).csproj.AssemblyReference.cache
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\obj\Debug\create data table in c sharp c(cosole app).csproj.SuggestedBindingRedirects.cache
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\obj\Debug\create data table in c sharp c(cosole app).csproj.CoreCompileInputs.cache
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\obj\Debug\create data table in c sharp c(cosole app).exe
+D:\ADO.NET\create data table in c sharp c(cosole app)\create data table in c sharp c(cosole app)\obj\Debug\create data table in c sharp c(cosole app).pdb
